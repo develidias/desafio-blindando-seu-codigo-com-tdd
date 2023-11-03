@@ -1,0 +1,7 @@
+C:\Users\Eliesio\source\repos\NewTalents\NewTalents\bin\Debug\NewTalents.exe.config
+C:\Users\Eliesio\source\repos\NewTalents\NewTalents\bin\Debug\NewTalents.exe
+C:\Users\Eliesio\source\repos\NewTalents\NewTalents\bin\Debug\NewTalents.pdb
+C:\Users\Eliesio\source\repos\NewTalents\NewTalents\obj\Debug\NewTalents.csproj.AssemblyReference.cache
+C:\Users\Eliesio\source\repos\NewTalents\NewTalents\obj\Debug\NewTalents.csproj.CoreCompileInputs.cache
+C:\Users\Eliesio\source\repos\NewTalents\NewTalents\obj\Debug\NewTalents.exe
+C:\Users\Eliesio\source\repos\NewTalents\NewTalents\obj\Debug\NewTalents.pdb
